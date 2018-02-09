@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rickydo/nodejs-intro/issues"
   },
-  "homepage": "https://github.com/rickydo/nodejs-intro#readme"
+  "homepage": "https://github.com/rickydo/nodejs-intro#readme",
+  "dependencies": {
+    "isarray": "^1.0.0"
+  }
 }
